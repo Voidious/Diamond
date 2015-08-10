@@ -1,0 +1,30 @@
+A world class Robocode bot.
+
+From Diamond.java:
+--
+Diamond - a robot by Voidious
+
+A Melee and 1v1 bot.
+
+In Melee it uses:
+  - Minimum Risk Movement
+  - Dynamic Clustering
+  - Displacement Vectors
+  - "Shadow" Melee Gun
+
+In 1v1 it uses:
+  - Wave Surfing movement with Dynamic Clustering
+  - Dynamic Clustering / GuessFactors for the two guns: one tuned for
+    surfers, the other tuned for non-adaptive movements.
+--
+
+Diamond is a former Melee champion, now ranked #2 in both General 1v1 and
+Melee. It's about as good as they get. In 1v1, it loses to only one bot
+(DrussGT), and only scores below 60% (as in 3:2) against 3 other bots. In Melee,
+it doesn't lose to anyone, but roughly ties with the other two strongest bots.
+
+Scores are as of August 9, 2015. Current scores: http://literumble.appspot.com
+
+For more information, see:
+  http://robowiki.net/wiki/Diamond
+  http://robowiki.net/wiki/Diamond/Version_History
